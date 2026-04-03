@@ -1,1 +1,27 @@
+# 🔐 Cross-Site Scripting (XSS) Vulnerability Report
 
+## 📌 Target
+Platform: portswigger
+Room: (write room name here)
+
+---
+
+## 🧠 Vulnerability Description
+Cross-Site Scripting (XSS) is a vulnerability that allows an attacker to inject malicious scripts into a web application. These scripts execute in the victim's browser and can steal session cookies, redirect users, or perform actions on behalf of the victim.
+
+---
+
+## 🛠 Tools Used
+- Burp Suite  
+- Web Browser  
+
+---
+
+## 🔍 Steps to Reproduce
+
+1. Navigate to the vulnerable input field (e.g., search box or comment section)
+2. Intercept the request using Burp Suite (optional)
+3. Inject the following payload:
+
+```html
+<script>alert('XSS')</script>
