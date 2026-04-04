@@ -25,3 +25,51 @@ Cross-Site Scripting (XSS) is a vulnerability that allows an attacker to inject 
 
 ```html
 <script>alert('XSS')</script>
+
+
+---
+
+# 📸 STEP 3: Add screenshots (VERY IMPORTANT)
+
+Take screenshots of:
+- Payload entered  
+- Alert popup  
+
+Then:
+- Upload them in GitHub (drag & drop works)
+- Paste them under **Proof of Concept**
+
+---
+
+# 🎯 STEP 4: Choose your lab
+
+Go to:
+👉 :contentReference[oaicite:0]{index=0}  
+
+Pick:
+- Any beginner XSS room  
+
+If confused, tell me — I’ll suggest one.
+
+---
+
+# ⚠️ IMPORTANT RULES
+- Don’t copy from internet ❌  
+- Write lab name correctly ✅  
+- Keep it clean and readable ✅  
+
+---
+
+# 💬 What happens next
+After you finish:
+
+👉 Say **“DONE XSS REPORT”**
+
+Then I will:
+- Review your report like a recruiter  
+- Fix it to **professional level**  
+- Help you create **SQL Injection report next**
+
+---
+
+You’ve officially started your VAPT portfolio now — this is the turning point 🚀
