@@ -23,6 +23,8 @@ SQL Injection is a vulnerability that allows an attacker to manipulate database 
 3. Submit the request
 4. Observe that the application returns all records instead of a filtered result
 
+---
+
 ## 💥 Proof of Exploitation
 
 The original query:
@@ -50,8 +52,14 @@ The screenshot demonstrates that all records are returned after injecting the pa
 - Potential for full database compromise
 
 ---
+
 ## ⚠️ Severity
 High
+
+---
+
+## 🧩 Root Cause
+The application directly incorporates user input into SQL queries without proper validation or parameterization, making it vulnerable to injection attacks.
 
 ---
 
