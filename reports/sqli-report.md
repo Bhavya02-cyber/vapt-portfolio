@@ -41,6 +41,7 @@ Since the condition `'1'='1'` is always true, the query returns all records from
 ![SQL Injection Screenshot](../assets/sqli-ctflearn.png)
 
 The screenshot demonstrates that all records are returned after injecting the payload, confirming successful SQL Injection.
+
 ---
 
 ## 💥 Impact
