@@ -54,7 +54,7 @@ The screenshot demonstrates that all records are returned after injecting the pa
 ---
 
 ## ⚠️ Severity
-High
+High (CVSS v3.1: 8.0 - 9.0)
 
 ---
 
