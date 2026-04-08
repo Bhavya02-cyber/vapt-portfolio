@@ -18,9 +18,10 @@ SQL Injection is a vulnerability that allows an attacker to manipulate database 
 
 ## 🔍 Steps to Reproduce
 
-1. Open the challenge page on CTFlearn
-2. Locate the input field
-3. Enter the following payload:
+1. Access the vulnerable input field on the web application
+2. Enter payload: ' OR '1'='1
+3. Submit the request
+4. Observe that the application returns all records instead of a filtered result
 
 ## 💥 Proof of Exploitation
 
@@ -39,12 +40,17 @@ Since the condition `'1'='1'` is always true, the query returns all records from
 
 ![SQL Injection Screenshot](../assets/sqli-ctflearn.png)
 
+The screenshot demonstrates that all records are returned after injecting the payload, confirming successful SQL Injection.
 ---
 
 ## 💥 Impact
 - Unauthorized access to database records  
 - Exposure of sensitive information  
-- Potential for full database compromise  
+- Potential for full database compromise
+
+---
+## ⚠️ Severity
+High
 
 ---
 
