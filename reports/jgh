@@ -12,7 +12,8 @@ Now tell me:
 👉 “Starting XSS report”
 
 I’ll guide you:
-
+## 🧩 Root Cause
+The application directly uses user input in SQL queries without parameterization or input validation, leading to SQL Injection.
 Step-by-step
 Help you write a killer XSS report
 Make your GitHub 🔥🔥
