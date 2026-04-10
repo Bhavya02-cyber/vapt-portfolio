@@ -2,7 +2,7 @@
 
 ## 📌 Target
 Platform: CTFlearn  
-Challenge: Basic Injection (web4)
+Challenge: Basic Injection (web)
 
 ---
 
