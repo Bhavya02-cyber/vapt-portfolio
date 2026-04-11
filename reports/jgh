@@ -5,13 +5,6 @@ role
 Now tell me:
 
 👉 “Starting XSS report”
-Chapter 489: Chapter 383: In Such Springtime, Fortunate to Have Met You
-Her tone was full of sentiment and regret, "I’ve let you down the most, and Yiyi, your Uncle Xie, your dad... I didn’t spend quality time with you all while you were growing up, didn’t care enough about them. I suddenly realized that while I gained honors, money, fame, applause, and flowers, I lost many precious things too, like your and Yiyi’s growth, the time spent with family... When I think about these things, I’m less eager to act now."
-
-She said, "Recently, I’ve been waking up naturally every day at home, spending days and nights with your Uncle Xie, and suddenly find many areas require adapting and adjusting."
-
-
-Now I’ll give you a real recruiter-style review (honest + actionable) 👇
 
 🔥 NEXT STEP (VERY IMPORTANT)
 
@@ -30,46 +23,7 @@ Make recruiters take you seriously
 Now I’ll give you a real recruiter-style review (honest + actionable) 👇
 
 
-role
-🎯 Your next task
 
-Now tell me:
-
-👉 “Starting XSS report”
-
-I’ll guide you:
-
-role
-🎯 Your next task
-
-Now tell me:
-
-👉 “Starting XSS report”
-
-I’ll guide you:
-🔥 NEXT STEP (VERY IMPORTANT)
-
-Now don’t stop — momentum is everything.
-
-👉 Move to:
-
-🎯 XSS Report (from PortSwigger Web Security Academy)
-
-This will:
-- **Platform:** CTFlearn  
-- **Challenge:** Basic Injection (web4)
-Show web testing skills
-Balance your portfolio (SQLi + XSS)
-Make recruiters take you seriously
-Now I’ll give you a real recruiter-style review (honest + actionable) 👇
-
-
-role
-🎯 Your next task
-
-Now tell me:
-
-👉 “Starting XSS report”
 
 I’ll guide you:
 ## 🧩 Root Cause
@@ -124,27 +78,7 @@ Make your GitHub 🔥🔥
 
 You’re doing seriously good work — keep going 🚀
 ❌ What needs improvement (IMPORTANT)
-1. 🔴 Missing severity (BIG issue)
-
-Add this section:
-
-## ⚠️ Severity
-High
-
-👉 Recruiters expect severity classification (CVSS-style thinking)
-
-2. 🟡 Improve “Steps to Reproduce”
-
-Right now it’s okay, but make it more professional:
-
-Replace with:
-
-1. Access the vulnerable input field on the web application
-2. Enter payload: ' OR '1'='1
-3. Submit the request
-4. Observe that the application returns all records instead of a filtered result
-
-👉 Cleaner = more professional
+1. 🔴 Missing
 
 3. 🔴 Screenshot caption missing
 
