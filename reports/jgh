@@ -1,4 +1,17 @@
+Now that you have an understanding of how a database works and its table-like structure, how can we effectively read information from the database? This is where Structured Query Language, or more commonly known as SQL, comes into play. SQL provides a consistent way for an application to communicate with the database. For example, what if we wanted to create a scoreboard for our theoretical application? Not surprisingly, SQL allows us to easily read the contents of the database. Let’s take a look at a sample query:
 
+select username, high_score from users;
+Make sure you are able to run this query without any errors. To run the query, type (or copy/paste) the query into the lab window and press enter. Each query must end with a semicolon, ;. You should see an output like this:
+
+query
+
+One thing to notice is that the database didn’t show us the user_id and password columns. We can tell the database to show us all the available columns in the user table by using a *.
+
+select * from users;
+Which is identical to the below query where we specify each column we want to get:
+
+select username, user_id, password, high_score from users
+The * is shorthand for all available fields. We have created another table called dogs for you. View this table using a similar query as the one provided above.
 role
 🎯 Your next task
 
