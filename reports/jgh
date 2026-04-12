@@ -14,7 +14,13 @@ select username, user_id, password, high_score from users
 The * is shorthand for all available fields. We have created another table called dogs for you. View this table using a similar query as the one provided above.
 role
 🎯 Your next task
+It can be nice to see all the rows in a table at once with a query like
 
+select * from orders;
+But, when we have large tables with hundreds of thousands of rows, it would be too much information to look at. Go ahead and view the orders table which has several hundred rows. Just as we can specify which fields to show with select we can also specify which rows to show using where. This is easiest to understand by jumping into another example.
+
+select * from orders where item_price = 924;
+where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 Now tell me:
 
 👉 “Starting XSS report”
