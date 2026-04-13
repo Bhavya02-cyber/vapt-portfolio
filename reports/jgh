@@ -4,47 +4,6 @@ select username, high_score from users;
 Make sure you are able to run this query without any errors. To run the query, type (or copy/paste) the query into the lab window and press enter. Each query must end with a semicolon, ;. You should see an output like this:
 
 query
-  Although it sounds a bit awful, their master must have her reasons for choosing such names.
-
-  Shi Yang: "Master, what about Shi Yuan? What should we call him?"
-
-  Shi Yao: "Master, how about calling him Er Niu?"
-
-  Nan Zhi rejected it: "We'll play husband and wife for now, so let him be called Xiao Huai."
-
-  How could that sound so nice?
-
-  Shi Yao and Shi Yang gritted their teeth again.
-
-  “To avoid being exposed, let’s practice first.”
-
-  Nan Zhi looked at Shi Yang: “Shi Yang.”
-
-  Shi Yang immediately stood up straight, his eyes as firm and respectful as if he were joining the Party: “Master, Shi Yang is here.”
-
-  Nan Zhi commented: “You’ve been exposed again. When I call you Shi Yang, you should feel very unfamiliar and subconsciously look around.”
-
-  Shi Yang angrily smacked his head.
-
-  She then called Shi Yao: “Kong Xu.”
-
-  This time Shi Yao reacted and blindly replied: “Master, Kong Xu is here.”
-
-  Nan Zhi shook her head: “Wrong again. My current identity is only your older sister, not your master.”
-
-  Shi Yao frowned, also somewhat annoyed.
-
-  “You two practice.”
-
-  Nan Zhi let Shi Yao and Shi Yang practice before calling Shi Yuan.
-
-  Shi Yuan thought she would call him “Xiao Huai.”
-
-  But who would have thought that what she said was—
-
-  “Husband.”
-
-
 
 select * from users;
 Which is identical to the below query where we specify each column we want to get:
