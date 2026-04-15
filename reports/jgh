@@ -5,7 +5,73 @@ Make sure you are able to run this query without any errors. To run the query, t
 
 query
 
+Incident Responder
+CyberSN
+Remote
+$70 - $80 / Hourly
 
+70%
+
+Incident Response
+
+30%
+
+Threat Hunting
+
+Contract
+
+Visa Transfer not available
+
+Industry - Financial Services
+
+Remote eligible in USA
+
+
+70%
+
+Incident Response
+Provide technical leadership and oversight to incident response activities and initiatives
+Respond to incidents involving Business Email Compromise (BEC)
+Targeted phishing emails or campaigns
+Impersonations Account Takeovers
+Respond to incidents involving malware
+Extract malware
+Remove malware for system restoration
+Respond to network based attacks
+Denial of service
+Web Application Attacks
+Email and Phishing attacks
+Network infrastructure attacks
+Cloud infrastructure attacks
+Monitor system events, logfiles and alerts
+SIEM Events
+Maintain an understanding of various SIEMs
+Data Loss Prevention (DLP) events
+Endpoint security products (AV, EDR, etc)
+Understand various EDR products
+Cloud based events
+Retain a knowledge of evolving cloud environments
+Perform incident detection
+Endpoint incidents
+Operating Systems
+Endpoint Security Products (EDR)
+Network incidents
+Use a SIEM
+Anomalous events (misconfiguration and misuse)
+Utilize security orchestration and automated response (SOAR)
+SOAR Products
+Perform threat hunting
+Perform research into malware development and trends
+Perform incident response and/or digital forensics on hardware
+Infrastructure devices
+Member of a CSIRT (Computer Security Incident Response Team)
+Manage, triage, escalate, and respond to cybersecurity alerts from a Managed Security Service Provider (MSSP) to ensure timely and effective threat mitigation
+30%
+
+Threat Hunting
+Participate in hunting missions using searching techniques to identify, detect and investigate threats on the enterprise network and/or cloud networks.
+Participate in hunting missions using searching or clustering techniques to identify, detect and investigate threats actors and advanced adversaries on the enterprise network and/or cloud networks
+Participate in incident resp
 select * from users;
 Which is identical to the below query where we specify each column we want to get:
 
