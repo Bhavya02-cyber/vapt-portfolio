@@ -5,21 +5,7 @@ Make sure you are able to run this query without any errors. To run the query, t
 
 Incident Response
 Provide technical leadership and oversight to incident response activities and initiatives
-Respond to incidents involving Business Email Compromise (BEC)
-Targeted phishing emails or campaigns
-Impersonations Account Takeovers
-Respond to incidents involving malware
-Extract malware
- EDR products
-Cloud based events
-Retain a knowledge of evolving cloud environments
-Perform incident detection
-Endpoint incidents
-Operating Systems
-Endpoint Security Products (EDR)
-Network incidents
-Use a SIEM
-Anomalous events (misconfiguration and misuse)
+ and misuse)
 Utilize security orchestration and automated response (SOAR)
 SOAR Products
 Perform threat hunting
