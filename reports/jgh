@@ -36,11 +36,7 @@ select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 Now tell me:
 
-👉 “Starting XSS report”
 
-🔥 NEXT STEP (VERY IMPORTANT)
-
-Now don’t stop — momentum is everything.
 
 👉 Move to:
 
