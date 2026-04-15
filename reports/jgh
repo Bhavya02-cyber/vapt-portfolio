@@ -27,6 +27,19 @@ select username, user_id, password, high_score from users
 The * is shorthand for all available fields. We have created another table called dogs for you. View this table using a similar query as the one provided above.
 role
 🎯 Your next task
+OOLS & ENVIRONMENT
+Amazon Web Services (AWS) logo
+Amazon Web Services (AWS)
+Crowdstrike logo
+Crowdstrike
+Windows logo
+Windows
+MacOS logo
+MacOS
+Linux logo
+Linux
+Crowdstrike NextGen SIEM
+Crowdstrike Fusion SOAR
 It can be nice to see all the rows in a table at once with a query like
 
 select * from orders;
