@@ -12,13 +12,7 @@ Perform threat hunting
 to the below query where we specify each column we want to get:
 
 select username, user_id, password, high_score from users
-The * is shorthand for all available fields. We have created another table called dogs for you. View this table using a similar query as the one provided above.
-role
-🎯 Your next task
-OOLS & ENVIRONMENT
- logo
-Windows
-MacOS logo
+
 MacOS
 Linux logo
 Linux
