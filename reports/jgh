@@ -9,14 +9,7 @@ Provide technical leadership and oversight to incident response activities and i
 Utilize security orchestration and automated response (SOAR)
 SOAR Products
 Perform threat hunting
-Perform research into malware development and trends
-
-Threat Hunting
-Participate in hunting missions using searching techniques to identify, detect and investigate threats on the enterprise network and/or cloud networks.
-Participate in hunting missions using searching or clustering techniques to identify, detect and investigate threats actors and advanced adversaries on the enterprise network and/or cloud networks
-Participate in incident resp
-select * from users;
-Which is identical to the below query where we specify each column we want to get:
+to the below query where we specify each column we want to get:
 
 select username, user_id, password, high_score from users
 The * is shorthand for all available fields. We have created another table called dogs for you. View this table using a similar query as the one provided above.
