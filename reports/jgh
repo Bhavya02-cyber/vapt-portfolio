@@ -10,19 +10,7 @@ Targeted phishing emails or campaigns
 Impersonations Account Takeovers
 Respond to incidents involving malware
 Extract malware
-Remove malware for system restoration
-Respond to network based attacks
-Denial of service
-Web Application Attacks
-Email and Phishing attacks
-Network infrastructure attacks
-Cloud infrastructure attacks
-Monitor system events, logfiles and alerts
-SIEM Events
-Maintain an understanding of various SIEMs
-Data Loss Prevention (DLP) events
-Endpoint security products (AV, EDR, etc)
-Understand various EDR products
+ EDR products
 Cloud based events
 Retain a knowledge of evolving cloud environments
 Perform incident detection
