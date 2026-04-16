@@ -27,11 +27,6 @@ select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 Now tell me:
 
-  Jingmo reluctantly did Nanzhi's hair and makeup, deliberately pulling hard on Nanzhi's scalp until it ached.
-
-  Nanzhi had never resisted Jingmo's treatment of her before.
-
-  But this time, as soon as she hurt Nanzhi, Nanzhi stood up and yanked her hair hard.
 
   "Ah! You dare pull my hair!"
 
