@@ -27,67 +27,6 @@ select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 Now tell me:
 
-  This Mu family, sooner or later, would be hers.
-
-  Watching her grandson playing at the door, she reached out her hand, "Rui'er, come here, Grandma will give you a hug."
-
-  Her son was truly amazing, having given birth to such a big, healthy grandson.
-
-  The carriage drove along unfamiliar streets, eventually leaving the city and stopping in a quiet bamboo grove on the outskirts.
-
-  Mu Yao got out of the carriage first, then looked at Nan Zhi who followed him out, extending his hand to her, indicating she could help him down.
-
-  Nan Zhi smiled and nodded at him, not taking his help, but jumping down from the carriage herself.
-
-  She almost twisted her ankle, and Mu Yao instinctively reached out to support her, but she had already stood still, a distance of three steps from him.
-
-  Mu Yao's eyes darkened slightly.
-
-  There was a small house in the bamboo grove.
-
-  As they approached, they heard a distant, melodious flute tune.
-
-  The flutist must have been a very generous person; the flute music was gentle and vibrant, each note full of life.
-
-  Walking into the bamboo grove, Nan Zhi saw a pond, its surface rippling with lotus blossoms and dragonflies skimming the water.
-
-  A man dressed in a blue robe embroidered with flying cranes stood in the pavilion, holding a flute, the music coming from his playing.
-
-  Upon seeing Nan Zhi and Mu Yao, Xu He stopped playing and bowed to them.
-
-  "Greetings, General and Madam."
-
-  Xu He stepped out and led them into the house, pouring them tea.
-
-  He was a gentleman; even though Mu Yao had informed him beforehand, he didn't stare at Nan Zhi rudely.
-
-  After drinking a cup of tea, Mu Yao said, "You two get to know each other, and I won't disturb you any longer."
-
-  With that, he rose and left.
-
-  But as he closed the door, he couldn't help but glance up, and when he saw Nan Zhi looking at him with sorrowful eyes, his heart skipped a beat.
-
-  "A crane soars into the clear sky, leading poetic thoughts to the azure heavens. This is the origin of my name. May I ask your name, young lady?"
-
-  Xuan paper and ink were laid out on the table.
-
-  Xu Heyi already knew the situation. He had met Mu Yao beforehand and initially disagreed with Mu Yao's actions. However, Mu Yao had praised her so highly, and Xu Heyi wasn't bound by traditional ethics, so he decided to meet her.
-
-  Nan Zhi picked up a brush and wrote a line on the paper—
-
-  【Last night I had a sweet dream, it must be Nan Zhi blooming.】
-
-  Xu Heyi looked at her calligraphy, which exuded a bold spirit, and couldn't help but praise repeatedly, "Good poem, good name, good calligraphy."
-
-  Nan Zhi blushed and wrote two words on the paper: 【Thank you.】
-
-  The two then chatted quite happily.
-
-  Mu Yao hadn't gone far outside.
-
-  He sat in the pavilion drinking. His natural martial arts skills gave him incredibly sharp hearing, and he could hear every movement inside clearly.
-
-  When he heard Nan Zhi chuckle softly, seemingly very happy, he suddenly squeezed his hand hard, shattering the wine cup.
 
 
 👉 Move to:
