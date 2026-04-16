@@ -27,24 +27,6 @@ select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 Now tell me:
 
-
-
-  
-
-  This little mute girl is usually so quiet and reserved; I never expected her to dare threaten her like this in private.
-
-  Silently, she vowed to kill her.
-
-  Today, Nan Zhi wore a light blue gauze dress, her makeup was clean, and her whole demeanor was gentle.
-
-  In the past month or so, Nan Zhi had gained a lot of weight; her face was round, her lips full, and when she smiled, her eyes curved, as if holding the stars and the sea.
-
-  When Mu Yao saw her, he was momentarily dazed.
-
-  Knowing that Mu Yao was taking Nan Zhi out for a trip, Madam Mu even specially saw them off.
-
-  Madam Mu's lips and brows were full of smiles: "You're usually so tired; it's good to go out and have some fun. No need to rush back."
-
   This was a good sign.
 
   The two of them going out together would definitely strengthen their relationship.
