@@ -2,7 +2,6 @@ Now that you have an understanding of how a database works and its table-like st
 
 select username, high_score from users;
 Make sure you are able to run this query without any errors. To run the query, type (or copy/paste) the query into the lab window and press enter. Each query must end with a semicolon, ;. You should see an output like this:
-
 Incident Response
 Provide technical leadership and oversight to incident response activities and initiatives
  and misuse)
