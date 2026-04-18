@@ -12,8 +12,7 @@ to the below query where we specify each column we want to get:
 
 select username, user_id, password, high_score from users
 
-MacOS
-Linux logo
+
 Linux
 Crowdstrike NextGen SIEM
 Crowdstrike Fusion SOAR
