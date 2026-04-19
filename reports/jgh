@@ -23,41 +23,10 @@ But, when we have large tables with hundreds of thousands of rows, it would be t
 
 select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
-Now tell me:
-
-Reward: Dual-Compatible Nourishment. Food suitable for weight loss and good for beast men too.]
-
-The rewards and benefits were very tempting. So much so that she decided to go downstairs and meet her husband. Going downstairs took her thirty minutes. She avoided using the easy automatic steps which had been put in for her. They worked just like an escalator.
-
-Instead, she used normal stairs, taking one at a time. By the time she reached the dining area, she had worked up a sweat.
 
 The house was still as strange as could be, with technology she could not make sense of. According to the history of this beast continent which she looked up on the phone, most of the technology was the work of non beast men. Through this, they had proven their usefulness in the last century.
 
 As she walked, Sienna could hear the chuckles of some mean maids and she tuned them out. They did not matter more than her goals and her current goal was Elias. He was sitting at the table, with his parents, two brothers, one sister and two children. Other than her mother-in-law who had red fox ears, everyone else had white ones.
-
-The moment Elias’ eyes met hers from across the room, Sienna flinched. This did not stop her from reaching the table and pulling out a chair for herself across from him.
-
-Everyone stopped eating immediately. The steaks and potatoes were left to cool off.
-
-"What are you here for?"
-
-Elias’s words were like a bullet fired from a gun. His eyes were devoid of warmth.
-
-The others exchanged glances, asking themselves the same question.
-
-"Why can’t I be here?" Sienna questioned back. "Today is our wedding anniversary. Have you forgotten?"
-
-She had found the date marked off in the calendar on the phone. The original Sienna had even asked the maids to prepare a grand candlelight dinner but nobody had bothered to do so. In this house, she was not respected at all.
-
-Elias threw the divorce decree at her. "This is your gift, sign it."
-
-Sienna’s lips curled upwards, she waved it around, smiling slyly. "I can consider signing it, but you need to do a few things for me."
-
-People sneered, some laughed in contempt. They all expected her to ask for money.
-
-"How much?" Elias asked.
-
-Sienna shook her head. "This is easier than that and it will not cost much, you just need to obey a few of my commands. Let’s start with the easiest one. Sit!"
 
 
 👉 Move to:
