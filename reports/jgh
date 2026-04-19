@@ -24,11 +24,6 @@ But, when we have large tables with hundreds of thousands of rows, it would be t
 select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
 
-The house was still as strange as could be, with technology she could not make sense of. According to the history of this beast continent which she looked up on the phone, most of the technology was the work of non beast men. Through this, they had proven their usefulness in the last century.
-
-As she walked, Sienna could hear the chuckles of some mean maids and she tuned them out. They did not matter more than her goals and her current goal was Elias. He was sitting at the table, with his parents, two brothers, one sister and two children. Other than her mother-in-law who had red fox ears, everyone else had white ones.
-
-
 👉 Move to:
 
 🎯 XSS Report (from PortSwigger Web Security Academy)This will:
