@@ -286,8 +286,6 @@ Add this section:
 ## ⚠️ Severity
 High
 
-👉 In real VAPT:
-
 Every vulnerability is rated (CVSS)
 Companies expect this
 2. 🟡 Add Root Cause (very important)
