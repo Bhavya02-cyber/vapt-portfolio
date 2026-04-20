@@ -290,8 +290,6 @@ Every vulnerability is rated (CVSS)
 Companies expect this
 2. 🟡 Add Root Cause (very important)
 
-Add:
-
 ## 🧩 Root Cause
 The application directly uses user input in SQL queries without parameterization or input validation, leading to SQL Injection.
 
