@@ -12,7 +12,6 @@ to the below query where we specify each column we want to get:
 
 select username, user_id, password, high_score from users
 
-
 Linux
 Crowdstrike NextGen SIEM
 Crowdstrike Fusion SOAR
@@ -191,7 +190,6 @@ Change this:
 
 ![SQL Injection Screenshot](../assets/sqli-ctflearn.png)
 
-Add explanation below:
 
 The screenshot demonstrates that all records are returned after injecting the payload, confirming successful SQL Injection.
 4. 🟡 Add “Root Cause” (this is 🔥 for interviews)
