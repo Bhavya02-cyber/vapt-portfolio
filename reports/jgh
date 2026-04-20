@@ -305,7 +305,6 @@ After your image, add:
 
 The screenshot shows that multiple records are returned after injecting the payload, confirming successful SQL Injection.
 4. 🟡 Small formatting polish
-
 Make sure:
 
 Payload is in code block ✔
