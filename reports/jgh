@@ -22,43 +22,6 @@ But, when we have large tables with hundreds of thousands of rows, it would be t
 
 select * from orders where item_price = 924;
 where item_price = 924 is tested on each row of the table, each time checking if the price is exactly 924. Only rows which match our where clause will be shown. This will be important in understanding the simple SQL injection coming shortly. Write a query to find the name of the item that has a price of 128
-Maxim Ford looked at Meredith’s foot, where fresh blood was dripping. The cold and indifferent look in his eyes softened as he said quietly, "Go get Miss Ford some slippers."
-
-"Yes."
-
-The bodyguard handed the shoes to Meredith, and after she put them on, she seemed to touch a wound and let out a soft hum, a bit spoiled: "It hurts."
-
-However, no one paid her any mind.
-
-Meredith, raised with the world in her palm since childhood, felt a complicated mix of sourness and discomfort.
-
-At last, unable to hold back, she looked at her brother, her pretty eyes blinking with a proud charm: "Brother, now that you have someone in your heart, are you going to abandon me, your sister?"
-
-"Don’t be silly." With the elevator accident yet to be clarified, Maxim did not trust her.
-
-Tiana Thorne, his only biological sister, was his bottom line.
-
-Meredith, spoiled since young, would stop at nothing to get what she wanted.
-
-Even with Tiana’s feet in such condition, Maxim had said nothing of concern, instead, her always troublesome second brother asked her to wear shoes, only then did he remember to have someone fetch shoes for her, causing her temper to flare.
-
-Meredith flushed, huffed: "Still, she’s not my sister-in-law, if she truly becomes my sister-in-law, will you throw me out later?"
-
-Maxim frowned: "Meredith."
-
-This call was very heavy, scolding her.
-
-Meredith had never heard such a harsh tone from her elder brother, and immediately, her eyes reddened, tears welling up as she jumped off the chair, gasping in pain as her feet hit the ground.
-
-On her radiant face, a trace of defiance: "I’ve done enough, the brothers have distanced themselves from me for her, don’t expect me to accept her in the future!"
-
-Julian furrowed his brow, a layer of cold mist in his eyes, not restraining the young lady’s temper, but rather letting it escalate.
-
-Maxim felt helpless: "Meredith, you..."
-
-"I don’t want to hear it, don’t want to hear it!"
-
-Meredith interrupted him, frowning, then turned to the couple of front desk attendants who were exchanging glances, her almond eyes coldly fierce: "Do you know who I am?"
 
 "Miss Ford." The three replied respectfully, fearing to offend this spoiled young lady.
 
