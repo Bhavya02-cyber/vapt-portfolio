@@ -1,5 +1,5 @@
 > **Room:** [POST Practice](https://ctflearn.com/challenge/114))
-> **Difficulty:** Easy)
+> **Difficulty:** Easy  
 > **Tags:** Web )
 > **Website:** CTFLearn )
 
