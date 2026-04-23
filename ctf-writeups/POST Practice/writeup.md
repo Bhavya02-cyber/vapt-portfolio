@@ -1,7 +1,7 @@
-> **Room:** [POST Practice](https://ctflearn.com/challenge/114))
+> **Room:** [POST Practice](https://ctflearn.com/challenge/114)  
 > **Difficulty:** Easy  
-> **Tags:** Web )
-> **Website:** CTFLearn )
+> **Tags:** Web  
+> **Website:** CTFLearn  
 
 
 
