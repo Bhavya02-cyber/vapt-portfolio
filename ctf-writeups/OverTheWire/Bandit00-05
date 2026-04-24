@@ -18,9 +18,9 @@ ________________________________________
 📝 Summary
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 The password to the level 01's box is boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-
-
 ________________________________________
+
+
 🚩 Bandit Level 01 → 02
 📌 Problem Description
 The password is stored in a file named -.
@@ -35,6 +35,11 @@ ________________________________________
 📝 Summary
 cat ./-
 ________________________________________
+
+
+
+
+
 🚩 Bandit Level 02 → 03
 📌 Problem Description
 The password is stored in a file with spaces in its name.
@@ -66,6 +71,9 @@ ________________________________________
 ls -a
 cat .hidden
 ________________________________________
+
+
+
 🚩 Bandit Level 04 → 05
 📌 Problem Description
 Find the only human-readable file among multiple files.
