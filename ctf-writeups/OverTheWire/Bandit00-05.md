@@ -57,6 +57,13 @@ ________________________________________
 📝 Summary
 cat "spaces in this filename"
 ________________________________________
+The password to gain access to the level 03's box is UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+
+
+
+
+
 🚩 Bandit Level 03 → 04
 📌 Problem Description
 The password is stored in a hidden file inside a directory.
@@ -73,7 +80,6 @@ ________________________________________
 ls -a
 cat .hidden
 ________________________________________
-The password to gain access to the level 03's box is UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 
 
