@@ -80,6 +80,8 @@ ________________________________________
 ls -a
 cat .hidden
 ________________________________________
+The password to gain access to the box in level 04 is pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
 
 
 
