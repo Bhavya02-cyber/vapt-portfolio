@@ -102,12 +102,20 @@ ________________________________________
 file ./*
 cat ./-file07
 ________________________________________
+The password to gain access to the level 05's box is koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+
+
+
+
 🧠 Key Learnings
 •	Handling special filenames (-, spaces) 
 •	Working with hidden files 
 •	File type identification using file 
 •	Importance of enumeration 
 ________________________________________
+
+
 🚀 Conclusion
 This challenge demonstrates how fundamental Linux commands are used during reconnaissance and enumeration phases in VAPT. Mastering these basics builds a strong foundation for real-world penetration testing.
 
