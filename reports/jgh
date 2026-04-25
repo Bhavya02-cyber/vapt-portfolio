@@ -12,7 +12,7 @@ to the below query where we specify each column we want to get:
 
 select username, user_id, password, high_score from users
 
-Linux
+
 Crowdstrike NextGen SIEM
 Crowdstrike Fusion SOAR
 It can be nice to see all the rows in a table at once with a query like
