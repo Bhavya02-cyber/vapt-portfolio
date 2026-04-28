@@ -10,7 +10,9 @@ SOAR Products
 Perform threat hunting
 to the below query where we specify each column we want to get:
 
+
 select username, user_id, password, high_score from users
+
 
 
 Crowdstrike NextGen SIEM
