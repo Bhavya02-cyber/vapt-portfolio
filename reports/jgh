@@ -118,7 +118,6 @@ Add this section:
 The application directly incorporates user input into SQL queries without proper validation or parameterization, making it vulnerable to injection attacks.
 5. 🟡 Small formatting fix
 
-Make this bold:
 
 - **Platform:** CTFlearn  
 - **Challenge:** Basic Injection (web4)
