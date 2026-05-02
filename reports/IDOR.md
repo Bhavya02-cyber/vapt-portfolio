@@ -92,12 +92,9 @@ This page returns in JSON format your user id, username and email address. We ca
 
 You can try testing this id parameter for an IDOR vulnerability by changing the id to another user's id. Try selecting users with IDs 1 and 3 and then answer the questions below.
 
-This is the website:
-<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/8481b9d4-306f-44b7-ab08-d575f12c944a" />
-
 Go to the Customers section:
 
-<img width="542" height="630" alt="image" src="https://github.com/user-attachments/assets/2a3c11f5-ee82-496b-b30e-87d0dc5f980c" />
+<img width="542" height="630" alt="image" src="https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/IDOR/IDOR4.png?raw=true" />
 
 Register yourself:
 
