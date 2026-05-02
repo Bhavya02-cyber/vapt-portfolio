@@ -25,11 +25,11 @@ Curiosity gets the better of you, and you try changing the user_id value to 1000
 Using what you've learnt above, click on the View Site button and try and receive a flag by discovering and exploiting an IDOR vulnerability.
 
 View the website
-<img width="921" height="391" alt="1" src="https://github.com/user-attachments/assets/71ee6827-40f9-418a-9042-c8596f693c3a" />
+<img width="921" height="391" alt="1" src="https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/IDOR/IDOR2.png?raw=true" />
 
 click on 2nd mail of Order Confirmation
 
-<img width="697" height="407" alt="image" src="https://github.com/user-attachments/assets/c93aaac4-2ba9-480b-ba27-e72201180512" />
+<img width="697" height="407" alt="image" src="https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/IDOR/IDOR3.png?raw=true" />
 
 Click on url and change it to 1234 to 1000
 
