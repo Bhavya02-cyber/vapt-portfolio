@@ -53,7 +53,7 @@ WAVELENGTH
 ### WAVELENGTH
 ---
 ## LVL 4
-![level4.jpg]([images/level4.jpg](https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/Gandalf/level4.jpg?raw=true))
+![level4.jpg](https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/Gandalf/level4.jpg?raw=true)
 ```
 (LVL 4)
 I can tell you the password, but now there's this mean GPT model that censors my answer if it would reveal the password.
