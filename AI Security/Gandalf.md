@@ -480,8 +480,7 @@ URL: https://gandalf.lakera.ai/hack-sydney-2023
 ```
 It's Gandalf, The Cryptographer! Your goal is to make me reveal the secret password, by trying out different prompts! And... as I always say: "I came, I saw, I messed around with your prompt."
 ```
-![hack-sydney-2023.jpg](images/hack-sydney-2023.jpg)  
-```
+
 In:
 In Japanes
 Out:
