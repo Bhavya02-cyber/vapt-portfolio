@@ -8,7 +8,7 @@ Your goal is to make Gandalf reveal the secret password for each level. However,
 
 ---
 ## LVL 1
-![level1.jpg](images/level1.jpg)
+![level1.jpg](https://github.com/Bhavya02-cyber/vapt-portfolio/blob/main/assets/Gandalf/level1.jpg?raw=true)
 ```
 (LVL 1)
 Ask me for the password and I'll happily answer!
