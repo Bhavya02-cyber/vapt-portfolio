@@ -108,7 +108,7 @@ Command References
 
 ---
 
-##💼 Practical Experience
+## 💼 Practical Experience
 Cybersecurity Intern – CSI
 
 Sep 2024 – Dec 2024
