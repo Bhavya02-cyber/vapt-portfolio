@@ -105,10 +105,10 @@ Linux Filesystem
 Searching for Files
 Enumeration Techniques
 Command References
+```
 
----
+# 👨‍💻 Practical Experience
 
-## 💼 Practical Experience
 Cybersecurity Intern – CSI
 
 Sep 2024 – Dec 2024
@@ -120,20 +120,24 @@ Identified security misconfigurations and insecure endpoints
 Exploited reflected XSS scenarios in lab environments
 Documented findings with remediation recommendations
 Analyzed HTTP traffic and attack surface mapping
-📜 Certifications
+
+# 📜 Certifications
+
 Certified Ethical Hacker (CEH)
 Microsoft Cybersecurity Certifications
-🎯 Goals
+
+# 🎯 Goals
 Advance in Red Teaming
 Learn Advanced Web Exploitation
 Research AI Security & Prompt Injection
 Contribute to Cybersecurity Community
-⚠️ Disclaimer
+
+# ⚠️ Disclaimer
 
 This repository is created strictly for educational and ethical purposes only.
 All testing was performed in authorized labs, CTF environments, or intentionally vulnerable applications.
 
-📫 Contact
+# 📫 Contact
 LinkedIn
 
 Bhavya Grover LinkedIn
