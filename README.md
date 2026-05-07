@@ -140,12 +140,12 @@ All testing was performed in authorized labs, CTF environments, or intentionally
 # 📫 Contact
 LinkedIn
 
-Bhavya Grover LinkedIn
+[Bhavya Grover LinkedIn](https://www.linkedin.com/in/bhavya-grover/)
 
 GitHub
 
-VAPT Portfolio Repository
-
+[VAPT Portfolio Repository
+](https://github.com/Bhavya02-cyber/vapt-portfolio)
 Email
 
 bhavyagrover02028@gmail.com
