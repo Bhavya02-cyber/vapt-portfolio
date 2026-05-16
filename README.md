@@ -144,8 +144,8 @@ LinkedIn
 
 GitHub
 
-[VAPT Portfolio Repository
-](https://github.com/Bhavya02-cyber/vapt-portfolio)  
+[VAPT Portfolio Repository]
+(https://github.com/Bhavya02-cyber/vapt-portfolio)  
 
 Email
 
